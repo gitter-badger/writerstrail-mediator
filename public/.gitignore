@@ -1,0 +1,2 @@
+# Ignore browserify bundle
+/js/app.js
